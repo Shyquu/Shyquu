@@ -1,9 +1,5 @@
 ![Discord](https://discord.c99.nl/widget/theme-4/493495931375714304.png)
 
-![Metrics](https://metrics.lecoq.io/Shyquu?template=classic&people=1&lines=1&people.limit=28&people.size=28&people.types=followers%2C%20following&people.ident)
-
-![Meistbenutzte Sprachen](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyquu&layout=compact&theme=dark)
-
 <!--
 **Shyquu/Shyquu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
