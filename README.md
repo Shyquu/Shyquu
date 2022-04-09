@@ -1,5 +1,11 @@
 ![Discord](https://discord.c99.nl/widget/theme-4/493495931375714304.png)
 
+<!--![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)-->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyquu&theme=tokyonight" alt="mystreak"/>
+
+<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Shyquu&repo=Shyquu&countColorcountColor&countColor=%237B1E7B"/>
+
 <!--
 **Shyquu/Shyquu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
