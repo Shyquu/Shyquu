@@ -4,8 +4,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyquu&theme=tokyonight" alt="mystreak"/>
 
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Shyquu&repo=Shyquu&countColorcountColor&countColor=%237B1E7B"/>
-
 <!--
 **Shyquu/Shyquu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
