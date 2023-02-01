@@ -3,7 +3,7 @@ Glad you found your way here and hoping you stay aswell.
 If you want to know more about me and my coding adventure, feel free to visit my website: https://koo.vision/
 Well then, this was it. Maybe you want to talk to me about something? You can always contact me:
 
-<a href=”https://www.discord.com"><img align=”left” src=”https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord | koo#3193 (493495931375714304)" width=”21px”/></a>
+<a href="https://www.discord.com"><img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord | koo#3193 (493495931375714304)" width="21px"/></a>
 
 ![Discord](https://discord.c99.nl/widget/theme-4/493495931375714304.png)
 
