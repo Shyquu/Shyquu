@@ -3,7 +3,7 @@
 My name is Leander and i'm a hobby developer from germany. 
 Glad you found your way here and hoping you stay aswell. 
 If you want to know more about me and my coding adventure, feel free to visit my website: https://koo.github.io/
-(Maybe you want to talk to me about something) => {Have no qualms about contacting me: <=>}
+(Maybe you want to talk to me about something) => {Have no qualms about contacting me}
 <a href="https://www.discord.com"><img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord | koo#3193 (493495931375714304)" width="21px"/></a>
 
 <h2>🔭 My Skills</h2>
