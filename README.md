@@ -13,12 +13,13 @@ If you want to know more about me and my coding adventure, feel free to visit my
 <h3>⚡ Some looser stats ⚡</h3>
 
 <!--![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)-->
-[![koo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shyquu)](https://github.com/Shyquu/github-readme-stats)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 ![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shyquu&theme=tokyonight)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyquu&theme=tokyonight" alt="mystreak"/>
+
+<h4>Byeeeeeeee 💬</h4>
+![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
 
 <!--
 **Shyquu/Shyquu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
