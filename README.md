@@ -10,7 +10,7 @@ If you want to know more about me and my coding adventure, feel free to visit my
 
 [![My Skills](https://skillicons.dev/icons?i=idea,java,js,ts,tailwind,css,html,mysql,sqlite,vite,discord,photoshop,premiere)](https://skillicons.dev)
 
-<h3>⚡ Some looser stats ⚡</h3>
+<h2>⚡ Some looser stats ⚡</h2>
 
 <!--![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)-->
 
@@ -18,8 +18,7 @@ If you want to know more about me and my coding adventure, feel free to visit my
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyquu&theme=tokyonight" alt="mystreak"/>
 
-<h4>Byeeeeeeee 💬</h4>
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/fetzlp)
+<h2>Byeeeeeeee 💬</h2>
 
 <!--**Shyquu/Shyquu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
