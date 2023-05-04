@@ -7,6 +7,7 @@ Well then, this was it. Maybe you want to talk to me about something? You can al
 <a href="https://www.discord.com"><img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord | koo#3193 (493495931375714304)" width="21px"/></a>
 
 <h2>My Skills</h2>
+
 [![My Skills](https://skillicons.dev/icons?i=idea,java,js,ts,tailwind,css,html,mysql,sqlite,vite,discord,photoshop,premiere)](https://skillicons.dev)
 
 Hey there, my name is Leander and i'm a hobby developer from germany. 
