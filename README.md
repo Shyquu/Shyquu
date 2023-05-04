@@ -16,7 +16,7 @@ If you want to know more about me and my coding adventure, feel free to visit my
 [![koo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shyquu)](https://github.com/Shyquu/github-readme-stats)
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
-[![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shyquu&theme=tokyonight)
+![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shyquu&theme=tokyonight)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyquu&theme=tokyonight" alt="mystreak"/>
 
