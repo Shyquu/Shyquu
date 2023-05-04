@@ -1,3 +1,5 @@
+<h1>Hey there 🤔</h1>
+<h2>My Skills</h2>
 [![My Skills](https://skillicons.dev/icons?i=idea,java,js,ts,tailwind,css,html,mysql,sqlite,vite,discord,photoshop,premiere)](https://skillicons.dev)
 
 Hey there, my name is Leander and i'm a hobby developer from germany. 
