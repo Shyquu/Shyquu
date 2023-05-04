@@ -10,7 +10,7 @@ Well then, this was it. Maybe you want to talk to me about something? You can al
 <!--![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)-->
 [![koo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shyquu)](https://github.com/Shyquu/github-readme-stats)
 
-[[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shyqu&theme=tokyonight)
+[[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shyquu&theme=tokyonight)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyquu&theme=tokyonight" alt="mystreak"/>
 
