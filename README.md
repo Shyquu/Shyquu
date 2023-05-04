@@ -19,10 +19,9 @@ If you want to know more about me and my coding adventure, feel free to visit my
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyquu&theme=tokyonight" alt="mystreak"/>
 
 <h4>Byeeeeeeee 💬</h4>
-![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/fetzlp)
 
-<!--
-**Shyquu/Shyquu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**Shyquu/Shyquu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
