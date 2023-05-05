@@ -2,7 +2,7 @@
 
 My name is Leander and i'm a hobby developer from germany. 
 Glad you found your way here and hoping you stay aswell. 
-If you want to know more about me and my coding adventure, feel free to visit my website: https://koo.github.io/
+If you want to know more about me and my coding adventure, feel free to visit my portfolio: https://shyquu.github.io/portfolio
 (Maybe you want to talk to me about something) => {Have no qualms about contacting me}
 <a href="https://www.discord.com"><img align="left" src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord | koo#3193 (493495931375714304)" width="21px"/></a>
 
@@ -10,7 +10,7 @@ If you want to know more about me and my coding adventure, feel free to visit my
 
 [![My Skills](https://skillicons.dev/icons?i=idea,java,js,ts,tailwind,css,html,mysql,sqlite,vite,discord,photoshop,premiere)](https://skillicons.dev)
 
-<h2>⚡ Some looser stats ⚡</h2>
+<h2>⚡ Some usefull stats ⚡</h2>
 
 <!--![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)-->
 
