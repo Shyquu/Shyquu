@@ -1,14 +1,3 @@
-<h1>Hey there 🤔</h1>
-
-My name is Leander and i'm a developer from Germany. 
-Glad you found your way here and hoping you stay aswell. 
-If you want to know more about me and my coding adventure, feel free to visit my [portfolio](https://shyquu.github.io/portfolio)!
-(Maybe you want to talk about something) = {Have no qualms contacting me} ⇒ 
-<a href="https://discord.com/users/493495931375714304">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968756.png" alt="Discord | koo#3193 (493495931375714304)" width="21px"/>
-</a>
-
-
 <h2>🔭 My Skills</h2>
 
 [![My Skills](https://skillicons.dev/icons?i=idea,java,js,ts,tailwind,css,html,mysql,sqlite,vite,discord,photoshop,premiere)](https://skillicons.dev)
