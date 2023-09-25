@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=idea,java,js,ts,tailwind,css,html,mysql,sqlite,vite,discord,photoshop,premiere)](https://skillicons.dev)
 
-<h2>⚡ USEFULL STATS</h2>
+<h2>⚡ STATCARDS</h2>
 
 <!--![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)-->
 
