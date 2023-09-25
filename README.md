@@ -1,5 +1,4 @@
 <h2>🔭 SKILLS</h2>
-<span style="font-family: 'Lucida Console';">test</span>
 [![My Skills](https://skillicons.dev/icons?i=idea,java,js,ts,tailwind,css,html,mysql,sqlite,vite,discord,photoshop,premiere)](https://skillicons.dev)
 
 <h2>⚡ USEFULL STATS</h2>
@@ -9,6 +8,8 @@
 ![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shyquu&theme=tokyonight)
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyquu&theme=tokyonight" alt="mystreak"/>
+
+<span style="font-family: 'Lucida Console';">test</span>
 
 <!--**Shyquu/Shyquu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
