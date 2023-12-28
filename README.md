@@ -1,5 +1,8 @@
 <p>🔭</p>
+
 [![My Skills](https://skillicons.dev/icons?i=idea,java,js,ts,tailwind,css,html,mysql,sqlite,vite,discord,photoshop,premiere)](https://skillicons.dev)
+
+
 
 <!--<h2>⚡ STATCARDS</h2>-->
 
