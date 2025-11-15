@@ -5,15 +5,33 @@
 />
 
 
-And now, have fun with some processed stat-cards, which were made to make me look good on paper, but mean absolutely nothing!
+And now, have fun with some processed stat-cards, which were made to make me look good on paper, but mean absolutely nothing! ⚡⚡
 
-![Github Contributions](https://greptile-stats.vercel.app/api/widget/Shyquu/contributions)
+<img 
+  src="https://greptile-stats.vercel.app/api/widget/Shyquu/contributions"
+  alt="Github Contributions"
+  style="width: 100%;"
+/>
 
-![Github Highlights](https://greptile-stats.vercel.app/api/widget/Shyquu/highlights)
+<img 
+  src="https://greptile-stats.vercel.app/api/widget/Shyquu/highlights"
+  alt="Github Contributions"
+  style="width: 100%;"
+/>
 
-![Github Archetype](https://greptile-stats.vercel.app/api/widget/Shyquu/archtype)
 
-![Github Quirk](https://greptile-stats.vercel.app/api/widget/Shyquu/quirk)
+<img 
+  src="https://greptile-stats.vercel.app/api/widget/Shyquu/archtype"
+  alt="Github Contributions"
+  style="width: 100%;"
+/>
+
+
+<img 
+  src="https://greptile-stats.vercel.app/api/widget/Shyquu/quirk"
+  alt="Github Contributions"
+  style="width: 100%;"
+/>
 <!--<h2>⚡ STATCARDS</h2>-->
 
 <!--![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)-->
