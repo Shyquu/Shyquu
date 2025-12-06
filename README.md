@@ -4,9 +4,6 @@
   style="width: 100%;"
 />
 
-
-And now, have fun with some processed stat-cards, which were made to make me look good on paper, but mean absolutely nothing! ⚡⚡
-
 <img 
   src="https://greptile-stats.vercel.app/api/widget/Shyquu/contributions"
   alt="Github Contributions"
@@ -40,5 +37,5 @@ And now, have fun with some processed stat-cards, which were made to make me loo
 
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyquu&theme=tokyonight" alt="mystreak"/>-->
 
-If you are actually reading this, congratulations! Here are some of my most used apps & frameworks for work. 
+
 [![My Skills](https://skillicons.dev/icons?i=blender,photoshop,premiere,aftereffects,webstorm)](https://skillicons.dev)
