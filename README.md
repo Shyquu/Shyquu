@@ -16,5 +16,6 @@
 </div>
 
 <div align="center">
-  <a href="">[![My Skills](https://skillicons.dev/icons?i=blender,photoshop,premiere,aftereffects,webstorm)](https://skillicons.dev)</a>
+  
+  [![My Skills](https://skillicons.dev/icons?i=blender,photoshop,premiere,aftereffects,webstorm)](https://skillicons.dev)
 </div>
