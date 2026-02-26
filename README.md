@@ -1,41 +1,20 @@
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Shyquu&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40"
-  alt="my Github Stats"
-  style="width: 100%;"
-/>
+<div align="center">
+  
+  <a href="">[![Visits](https://komarev.com/ghpvc/?username=Shyquu&style=for-the-badge&color=blueviolet)](https://github.com/Shyquu)</a>
+  
+</div>
 
-<img 
-  src="https://greptile-stats.vercel.app/api/widget/Shyquu/contributions"
-  alt="Github Contributions"
-  style="width: 100%;"
-/>
-
-<img 
-  src="https://greptile-stats.vercel.app/api/widget/Shyquu/highlights"
-  alt="Github Contributions"
-  style="width: 100%;"
-/>
-
-
-<img 
-  src="https://greptile-stats.vercel.app/api/widget/Shyquu/archtype"
-  alt="Github Contributions"
-  style="width: 100%;"
-/>
-
-
-<img 
-  src="https://greptile-stats.vercel.app/api/widget/Shyquu/quirk"
-  alt="Github Contributions"
-  style="width: 100%;"
-/>
+<div align="center">
 <!--<h2>⚡ STATCARDS</h2>-->
 
 <!--![Snake animation](https://github.com/madushadhanushka/github-readme/blob/output/github-contribution-snake.svg)-->
 
+<a href="">[![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shyquu&theme=tokyonight)](https://github.com/Shyquu)</a>
 <!--![Github Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shyquu&theme=tokyonight)-->
 
 <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shyquu&theme=tokyonight" alt="mystreak"/>-->
+</div>
 
-
+<div align="center">
 [![My Skills](https://skillicons.dev/icons?i=blender,photoshop,premiere,aftereffects,webstorm)](https://skillicons.dev)
+</div>
