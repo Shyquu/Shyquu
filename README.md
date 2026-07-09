@@ -4,9 +4,8 @@
   
 </div>
 <div align="center">
-  <a> i quit </a>
-  <a>  </a>
-  <a>  </a>
+  <a> i quit <br> </a>
+  
 </div>
 
 
