@@ -4,6 +4,8 @@
   
 </div>
 
+<a>i quit<a/>
+
 <div align="center">
 <!--<h2>⚡ STATCARDS</h2>-->
 
