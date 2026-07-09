@@ -3,6 +3,7 @@
   <a href="">[![Visits](https://komarev.com/ghpvc/?username=Shyquu&style=for-the-badge&color=blueviolet)](https://github.com/Shyquu)</a>
   
 </div>
+
 <div align="center" style="padding-bottom: 20px;">
   <a> i quit <br> </a>
   
