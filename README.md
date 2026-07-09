@@ -3,8 +3,10 @@
   <a href="">[![Visits](https://komarev.com/ghpvc/?username=Shyquu&style=for-the-badge&color=blueviolet)](https://github.com/Shyquu)</a>
   
 </div>
+<div align="center">
+  <a> i quit </a>
+</div>
 
-<p style="text-align: center">i quit</p>
 
 <div align="center">
 <!--<h2>⚡ STATCARDS</h2>-->
