@@ -4,7 +4,7 @@
   
 </div>
 
-<a align="center">i quit<a/>
+<p style="text-align: center">i quit</p>
 
 <div align="center">
 <!--<h2>⚡ STATCARDS</h2>-->
