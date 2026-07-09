@@ -5,6 +5,8 @@
 </div>
 <div align="center">
   <a> i quit </a>
+  <a>  </a>
+  <a>  </a>
 </div>
 
 
